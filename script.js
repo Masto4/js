@@ -66,16 +66,16 @@ if (number % 2 == 0){
 
 
 
-var grade = prompt('enter your percentage')
+var grade = prompt('enter your percentage');
 
 if (grade > 90){
-    console.log('A grade')
+    console.log('A grade');
 }else
 if (grade > 80){
-    console.log('B grade')
+    console.log('B grade');
 }else
 if (grade > 50){
-    console.log('C grade')
+    console.log('C grade');
 } else (
-    console.log('fail')
+    console.log('fail');
 )
