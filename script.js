@@ -76,6 +76,6 @@ if (grade > 80){
 }else
 if (grade > 50){
     console.log('C grade');
-} else (
+} else {
     console.log('fail');
-)
+}
